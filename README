@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=643
+
+I found no syntax script for wml so I made a simple one.
+
+It was made for WML 1.1. Other WML versions weren't taken into account, but I believe this file is very easy to change.
